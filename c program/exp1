@@ -1,0 +1,13 @@
+#include<stdio.h>
+
+int main(){
+
+    printf("\nName: Mishra priyanshu");
+    printf("\nAge: 19");
+    printf("\nClass: BE Computer Engineering ");
+    printf("\nDivion: C");
+    printf("\nUIN: 241P005");
+
+return 0;
+}
+
